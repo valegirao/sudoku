@@ -2,7 +2,7 @@
 #include "SudokuImpl.h"
 
 
-//Made by valky girao
+//Made by Valky Girao, Diego Villanueva, Ali Soleimani.
 
 using namespace std;
 int main() {
