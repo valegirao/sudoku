@@ -2,7 +2,6 @@
 #include "SudokuImpl.h"
 
 
-//Made by vale girao
 
 using namespace std;
 int main() {
