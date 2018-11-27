@@ -1,6 +1,4 @@
-//
-// Created by martin on 11/14/18.
-//
+
 
 #include "SudokuImpl.h"
 
