@@ -1,6 +1,4 @@
-//
-// Created by martin on 11/14/18.
-//
+
 
 #ifndef SUDOKU_SUDOKUIMPL_H
 #define SUDOKU_SUDOKUIMPL_H
